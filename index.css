@@ -1,17 +1,32 @@
-body, h1, h2, h3, h4, h5, h6 {
+body, h1, h2, h4, h5, h6 {
 	font-family: "Lato", sans-serif;
 	color: white;
 	text-align: center;
 }
 
+body {
+	margin: auto;
+}
+
+h1 {
+	font-size: 400%;
+	font-family: "Montserrat";
+}
+
+h3 {
+	font-size: 200%;
+	font-family: "Montserrat";
+	color: black;
+	margin: 5%;
+}
+
 div {
-	margin: 2%;
-	color: #808080;	
+	padding: auto;
 }
 
 input.MyButton {
 	text-align: center;
-	width: 100%;
+	width: 15%;
 	padding: 2%;
 	cursor: pointer;
 	font-weight: bold;

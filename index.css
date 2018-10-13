@@ -1,6 +1,7 @@
 body, h1, h2, h3, h4, h5, h6 {
 	font-family: "Lato", sans-serif;
 	font-color: white;
+	text-align: center;
 }
 
 h1, h2 {
@@ -30,7 +31,7 @@ input.MyButton {
 
 input.MyButton:hover {
 	color: #ffffff;
-	background: #2828ff;
+	background: #1a3366;
 }
 
 header {

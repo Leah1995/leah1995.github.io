@@ -6,8 +6,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 div {
 	margin: 2%;
-	color: #808080;
-	
+	color: #808080;	
 }
 
 input.MyButton {
@@ -30,8 +29,6 @@ input.MyButton:hover {
 
 header {
 	background: #0080ff;
-/* 	padding: 128px 16px; */
 	padding: 5%;
-	position: center;
-	margin: auto;
+	width: 90%;
 }

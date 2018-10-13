@@ -1,0 +1,41 @@
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: "Lato", sans-serif;
+	font-color: white;
+}
+
+h1, h2 {
+	font-family: "Montserrat", sans-serif;
+	color: white;
+	padding: large;
+	margin: auto;
+}
+
+div {
+	margin: 20px;
+	color: #808080;
+	
+}
+
+input.MyButton {
+	width: 50em;
+	padding: 20px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 150%;
+	background: #3366cc;
+	color: #fff;
+	border: 1px solid #3366cc;
+	border-radius: 10px;
+}
+
+input.MyButton:hover {
+	color: #ffffff;
+	background: #2828ff;
+}
+
+header {
+	background: #0080ff;
+	padding: 128px 16px;
+	position: center;
+	margin: auto;
+}
